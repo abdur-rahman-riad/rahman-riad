@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rahman Riad
+### Hi there 👋, I'm Mohammad Abdur Rahman Riad
 #### I am Web Developer & Data Analyst.
 ![I am Web Developer & Data Analyst.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -7,9 +7,9 @@ Ceaselessly I am trying to be the best version of me, and its known to me that I
 
 Skills: HTML / CSS / BootStrap
 
-- 🔭 I’m currently working on My Own  
-- 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on  with other open source project  
+- 🔭 I’m a curious programmer and fast learner  
+- 🌱 I’m currently learning web development 
+- 👯 I’m looking to collaborate with other open source project 
 - 💬 Ask me about Technology 
 - 📫 How to reach me: Mail Me 
 
