@@ -5,13 +5,12 @@
 Hello ! Myself Mohammad Abdur Rahman.but my friends and family usually call me as Riad. Currently I am Studying at "Daffodil International University" in the Department of "Computer Science and Engineering". I have skill in "Web Development" and "Machine Learning" and "Graphics Design". 
 Ceaselessly I am trying to be the best version of me, and its known to me that I will have to keep forwarding in my entire lifetime. Cause I believe- "GOOD can't be classified as BETTER-BEST, even BEST is meant to be amplified in case".
 
-Skills: HTML / CSS / BootStrap
+Skills: HTML / CSS / BootStrap / JavaScript.
 
 - 🔭 I’m a curious programmer and fast learner  
 - 🌱 I’m currently learning web development 
 - 👯 I’m looking to collaborate with other open source project 
 - 💬 Ask me about Technology 
-- 📫 How to reach me: Mail Me 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahman-riad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahman-riad/)  
