@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahman-riad&label=Profile%20views&color=0e75b6&style=flat" alt="rahman-riad" /> </p>
 
-- 🌱 I’m currently learning **Web Developer & Data Analyst.**
+- 🌱 I’m currently learning **Web Development & Data Analysis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
